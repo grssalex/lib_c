@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfe6f560-d433-47d2-9618-451eea546a36" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../include/my.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/build.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/libmy.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_compute_power_rec.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_compute_square_root.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_find_prime_sup.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_getnbr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_is_prime.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_isneg.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_put_nbr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_putchar.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_putstr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_revstr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_showmem.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_showstr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_sort_int_array.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_str_isalpha.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_str_islower.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_str_isnum.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_str_isprintable.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_str_isupper.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_strcapitalize.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_strcat.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_strcmp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_strcpy.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_strlen.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_strlowcase.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_strncat.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_strncmp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_strncpy.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_strstr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_strupcase.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_swap.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/my_tolower.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rush2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/B-CPE-101-MPL-1-1-myprintf-hugo.soulet" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MakefileLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="lib_c" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="lib_c" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="2.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2oQP0baUg1JXfvgo8a2gdjuk6FK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/grssalex/Bureau/lib_c",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfe6f560-d433-47d2-9618-451eea546a36" name="Changes" comment="" />
+      <created>1730798603352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730798603352</updated>
+      <workItem from="1730798604441" duration="2029000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
