@@ -20,7 +20,7 @@ List of functions :
 - my_put_float : function that displays a float number
 
 GCC Code Coverage Report : 96% coverage of the functions in the library
-
+```
 ------------------------------------------------------------------------------
                            GCC Code Coverage Report
 Directory: .
@@ -42,3 +42,4 @@ lib/my/my_swap.c                               0       0    --%
 ------------------------------------------------------------------------------
 TOTAL                                         30      29    96%
 ------------------------------------------------------------------------------
+```
